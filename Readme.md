@@ -12,7 +12,7 @@ the web development.
 ## What do I like about coding?
 - The feeling you get from creating something from nothing.
 - The time is flying, you start your day at 9am and suddently your notice that your eyes are sore and it's already 12h.
-- When you're stuck during hours/days/weeks and finally you find the solution I just feel like :
+- When you're stuck during hours/days/weeks and finally you find the solution I just feel like : <br>
 ![GIF](https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif "Magic" )
 
 # 💻 Tech Stack:
