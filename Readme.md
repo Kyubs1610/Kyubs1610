@@ -1,4 +1,4 @@
-Diego (not Diogo)
+##Diego (not Diogo)
 Former hotelier, I decided to reorient myself in the IT.
 I wish to use my skills acquired during my career in a new sector, the web development.
 
