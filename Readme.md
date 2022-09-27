@@ -1,6 +1,8 @@
-##Diego (not Diogo)
-Former hotelier, I decided to reorient myself in the IT.
-I wish to use my skills acquired during my career in a new sector, the web development.
+# Diego (not Diogo)
+
+Former hotelier, I decided to reorient myself in the IT.  
+I wish to use my skills acquired during my career in a new sector,
+the web development.
 
 ## 3 Next (MTV show) facts
 I can sleep 8 hours in 6 hours
@@ -10,7 +12,7 @@ I can imitate the sound of wine being poured into a glass
 The feeling you get from creating something from nothing.
 The time is flying, you start your day at 9am and suddently your notice that your eyes are sore and it's already 12h.
 When you're stuck during hours/days/weeks and finally you find the solution I just feel like :
-[!](http://www.reddit.com/r/reactiongifs/comments/23o050/mrw_some_asks_what_ive_had_done_that_the_internet/)
+![](http://www.reddit.com/r/reactiongifs/comments/23o050/mrw_some_asks_what_ive_had_done_that_the_internet/)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
