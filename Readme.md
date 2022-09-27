@@ -5,14 +5,15 @@ I wish to use my skills acquired during my career in a new sector,
 the web development.
 
 ## 3 Next (MTV show) facts
-I can sleep 8 hours in 6 hours
-Dark humor
-I can imitate the sound of wine being poured into a glass
+- I can sleep 8 hours in 6 hours
+- Dark humor
+- I can imitate the sound of wine being poured into a glass
+- 
 ## What do I like about coding?
-The feeling you get from creating something from nothing.
-The time is flying, you start your day at 9am and suddently your notice that your eyes are sore and it's already 12h.
-When you're stuck during hours/days/weeks and finally you find the solution I just feel like :
-![](http://www.reddit.com/r/reactiongifs/comments/23o050/mrw_some_asks_what_ive_had_done_that_the_internet/)
+- The feeling you get from creating something from nothing.
+- The time is flying, you start your day at 9am and suddently your notice that your eyes are sore and it's already 12h.
+- When you're stuck during hours/days/weeks and finally you find the solution I just feel like :
+![](https://giphy.com/embed/ujUdrdpX7Ok5W)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
@@ -22,9 +23,9 @@ When you're stuck during hours/days/weeks and finally you find the solution I ju
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyubs1610&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## The Three things I value the most to work as a team
-Team spirit
-Open-mindedness
-Mutual respect
+- Team spirit
+- Open-mindedness
+- Mutual respect
 
 ### Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
