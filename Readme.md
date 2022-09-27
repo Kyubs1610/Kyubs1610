@@ -8,7 +8,7 @@ the web development.
 - I can sleep 8 hours in 6 hours
 - Dark humor
 - I can imitate the sound of wine being poured into a glass
-- 
+
 ## What do I like about coding?
 - The feeling you get from creating something from nothing.
 - The time is flying, you start your day at 9am and suddently your notice that your eyes are sore and it's already 12h.
