@@ -1,49 +1,31 @@
-![Logo](https://kyubsd.000webhostapp.com/logopng.png "kyubs" )
-# Diego (not Diogo)
+Diego (not Diogo)
+Former hotelier, I decided to reorient myself in the IT.
+I wish to use my skills acquired during my career in a new sector, the web development.
 
-Former hotelier, I decided to reorient myself in the IT.  
-I wish to use my skills acquired during my career in a new sector,
-the web development.
+3 Next (MTV show) facts
+I can sleep 8 hours in 6 hours
+Dark humor
+I can imitate the sound of wine being poured into a glass
+What do I like about coding?
+The feeling you get from creating something from nothing.
+The time is flying, you start your day at 9am and suddently your notice that your eyes are sore and it's already 12h.
+When you're stuck during hours/days/weeks and finally you find the solution I just feel like :
+[]
 
-## 3 Next (MTV show) facts
-- I can sleep 8 hours in 6
-- Dark humor
-- I can imitate the sound of wine being poured into a glass 
+💻 Tech Stack:
+CSS3 HTML5 JavaScript Markdown Canva
 
-
-## 3 favourite things
-- **Video games**
-- 🔴 🔵 *Fc Barcelona* 🔴🔵
-- ***Music***
-
-## Objectives
-
-	🎵 I wanna be the very best 
-	That no one ever was
-    To catch them is my real test
-    To train them is my 'cause
-    I will travel across that land
-    Searching far and wide
-    Teach Pokemon to understand
-    The power that's inside 🎵
+📊 GitHub Stats:
 
 
-## Fear
-Blank page syndrome
-
-## The things I look forward to.
-
-==As my old friend used to say :== 
-https://www.youtube.com/watch?v=Sg14jNbBb-8
-
-## The Three things I value the most to work as a team
-1. Team spirit
-2. Open-mindedness
-3. Mutual respect
-
-## My favorite GIF
-
-![GIF](https://media.giphy.com/media/dWZbSWJfaKYWuuAbvU/giphy.gif)
 
 
+The Three things I value the most to work as a team
+Team spirit
+Open-mindedness
+Mutual respect
+Random Dev Meme
+
+
+Its running on heroku free tier and the resources runs out at the end of the month, this will automatically start running from the first of next month
 
