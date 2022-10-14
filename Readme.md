@@ -19,7 +19,7 @@ the web development.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kyubs1610&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kyubs1610&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kyubs1610&theme=synthwave&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyubs1610&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## The Three things I value the most to work as a team
