@@ -48,10 +48,10 @@ the web development.
 
 ###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kyubs1610&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyubs1610&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Kyubs1610&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyubs1610&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GIF](https://media.giphy.com/media/l0GRkzJhkMlJotMFq/giphy-downsized-large.gif)
+![](https://media.giphy.com/media/l0GRkzJhkMlJotMFq/giphy-downsized.gif)
 
 
 [![](https://visitcount.itsvg.in/api?id=Kyubs1610&icon=0&color=0)](https://visitcount.itsvg.in)
