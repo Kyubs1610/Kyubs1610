@@ -4,16 +4,8 @@ Former hotelier, I decided to reorient myself in the IT.
 I wish to use my skills acquired during my career in a new sector,
 the web development.
 
-## 3 Next (MTV show) facts
-- I can sleep 8 hours in 6 hours
-- Dark humor
-- I can imitate the sound of wine being poured into a glass
 
-## What do I like about coding?
-- The feeling you get from creating something from nothing.
-- The time is flying, you start your day at 9am and suddently your notice that your eyes are sore and it's already 12h.
-- When you're stuck during hours/days/weeks and finally you find the solution I just feel like : <br>
-![GIF](https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif "Magic" )
+
 
 # 💻 Tech Stack:
 ###
@@ -60,10 +52,7 @@ the web development.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kyubs1610&theme=synthwave&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyubs1610&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## The Three things I value the most to work as a team
-- Team spirit
-- Open-mindedness
-- Mutual respect
+![GIF](https://media1.giphy.com/media/l0GRkzJhkMlJotMFq/giphy.gif?cid=ecf05e47z9bp5b7ydbiybkxho4mzg3w5tq17caknh6n7htpr&rid=giphy.gif&ct=g)
 
 
 [![](https://visitcount.itsvg.in/api?id=Kyubs1610&icon=0&color=0)](https://visitcount.itsvg.in)
