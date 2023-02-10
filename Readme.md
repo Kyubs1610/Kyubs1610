@@ -1,16 +1,21 @@
 <h2 align="center">Hi 👋! My name is Diego and I'm a Junior Frontend Developer.</h2>
 
-###
+Former hotelier, I decided to reorient myself in the IT.  
+I wish to use my skills acquired during my career in a new sector,
+the web development.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&username=Kyubs" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&username=Kyubs" height="150" alt="languages graph"  />
-</div>
+## 3 Next (MTV show) facts
+- I can sleep 8 hours in 6 hours
+- Dark humor
+- I can imitate the sound of wine being poured into a glass
 
-###
+## What do I like about coding?
+- The feeling you get from creating something from nothing.
+- The time is flying, you start your day at 9am and suddently your notice that your eyes are sore and it's already 12h.
+- When you're stuck during hours/days/weeks and finally you find the solution I just feel like : <br>
+![GIF](https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif "Magic" )
 
-<img align="right" height="150" src="https://media1.giphy.com/media/l0GRkzJhkMlJotMFq/giphy.gif?cid=ecf05e47z9bp5b7ydbiybkxho4mzg3w5tq17caknh6n7htpr&rid=giphy.gif&ct=g"  />
-
+# 💻 Tech Stack:
 ###
 
 <div align="left">
@@ -50,9 +55,15 @@
 </div>
 
 ###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kyubs1610&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kyubs1610&theme=synthwave&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyubs1610&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br clear="both">
+## The Three things I value the most to work as a team
+- Team spirit
+- Open-mindedness
+- Mutual respect
 
-<img src="https://raw.githubusercontent.com/Kyubs/Kyubs/blob/output/snake.svg" alt="Snake animation" />
 
-###
+[![](https://visitcount.itsvg.in/api?id=Kyubs1610&icon=0&color=0)](https://visitcount.itsvg.in)
