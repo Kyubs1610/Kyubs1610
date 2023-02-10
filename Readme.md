@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Diego and I'm a Junior Frontend Developer.</h2>
+<h2>Hi 👋! My name is Diego and I'm a Junior Frontend Developer.</h2>
 
 Former hotelier, I decided to reorient myself in the IT.  
 I wish to use my skills acquired during my career in a new sector,
