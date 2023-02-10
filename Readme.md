@@ -1,8 +1,6 @@
-<h2>Hi 👋! My name is Diego and I'm a Junior Frontend Developer.</h2>
+### Hello dear visitor, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <h2> My name is Diego and I'm a Junior Frontend Developer.</h2>
 
-Former hotelier, I decided to reorient myself in the IT.  
-I wish to use my skills acquired during my career in a new sector,
-the web development.
+Former hotelier, I decided to reorient myself in the IT sector. I wish to use my skills acquired during my intensive 7 months bootcamp in the web development. My goal after my training is to become a front-end developer and keep learning on this branch.
 
 
 
