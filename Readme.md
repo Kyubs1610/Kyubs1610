@@ -1,6 +1,6 @@
 ## Hello dear visitor, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <h3> My name is Diego and I'm a Junior Frontend Developer.</h3>
 
-Former hotelier, I decided to reorient myself in the IT sector. I wish to use my skills acquired during my intensive 7 months bootcamp in the web development. My goal after my training is to become a front-end developer and keep learning on this branch.
+Motivated web developer with intensive training in front-end development seeking a challenging position to launch my career. Proficient in HTML, CSS, JavaScript, and front-end frameworks. I’m looking for a job where I will improve my skills and learn new ones. Hard work, curious and particularly eager to learn. I am ready to take on any challenge!
 
 
 
