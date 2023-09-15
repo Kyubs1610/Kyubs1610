@@ -44,7 +44,7 @@ Motivated web developer with intensive training in front-end development seeking
 
 ###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kyubs1610&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyubs1610&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://media.giphy.com/media/l0GRkzJhkMlJotMFq/giphy-downsized.gif)
